@@ -213,11 +213,11 @@ Successful responses confirmed that the private instance could communicate with 
 
 ### Bastion to Private Instance Connection
 
-![Bastion to Private](screenshots/08-bastion-private-connection.png)
+![Bastion to Private](screenshots/10-bastion-private-connection.png)
 
 ### NAT Gateway Connectivity Test
 
-![Connectivity Test](screenshots/09-nat-connectivity-test.png)
+![Connectivity Test](screenshots/11-nat-connectivity-test.png)
 
 ---
 
